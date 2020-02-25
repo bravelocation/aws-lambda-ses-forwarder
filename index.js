@@ -35,6 +35,8 @@ var defaultConfig = {
   forwardMapping: {
     "@writingontablets.com": [
       "johnp@bravelocation.com"
+    ],"@yeltzland.net": [
+      "johnp@bravelocation.com"
     ]
   }
 };
