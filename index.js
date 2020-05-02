@@ -37,6 +37,8 @@ var defaultConfig = {
       "johnp@bravelocation.com"
     ],"@yeltzland.net": [
       "johnp@bravelocation.com"
+    ],"@josiemccoy.co.uk": [
+      "josiemccoyart@gmail.com"
     ]
   }
 };
